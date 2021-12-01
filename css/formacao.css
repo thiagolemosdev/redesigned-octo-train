@@ -2,9 +2,11 @@
   background: #141414;
   color: #fff;
   position: relative;
+  box-shadow: 0 -2px 10px #000;
 }
 
 .formacao-container {
+  box-shadow: #fff;
   max-width: 1200px;
   padding: 120px 20px;
   margin: 0 auto;
@@ -25,7 +27,7 @@
 }
 
 .formacao .subtitulo {
-  color: #fff;
+  color: #55d3fe;
 }
 
 .formacao-texto {
@@ -76,7 +78,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#55d3fe, #0180bb);
   position: absolute;
   left: -24px;
 }

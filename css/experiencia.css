@@ -7,7 +7,8 @@
   gap: 100px;
 }
 .experiencia .subtitulo {
-  color: #e0e0e0;
+  /* color: #e0e0e0; */
+  color: #0180bb;
 }
 
 .experiencia-texto {
@@ -38,7 +39,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#55d3fe, #0180bb);
   position: absolute;
   top: 20px;
   left: -4px;
@@ -86,10 +87,11 @@
   .experiencia {
     grid-template-columns: 1fr;
     gap: 40px;
+    padding: 10px 20px;
   }
 
   .experiencia .subtitulo {
-    color: #141414;
+    /* color: #141414; */
     font-weight: bold;
   }
 
