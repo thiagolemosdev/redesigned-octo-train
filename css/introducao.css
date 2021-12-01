@@ -63,7 +63,7 @@
   }
 
   .introducao img {
-    display: none;
+    /* display: none; */
     order: 1;
   }
 }
